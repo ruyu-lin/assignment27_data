@@ -1,0 +1,45 @@
+{
+    "nodes": [
+      {
+        "color": "#FF9797",
+        "radius": 20
+      },
+      {
+        "color": "#A6FFFF",
+        "radius": 10
+      },
+      {
+        "color": "#00FFFF",
+        "radius": 10
+      },
+      {
+        "color": "#FFD2D2",
+        "radius": 20
+      },
+      {
+        "color": "#FF2D2D",
+        "radius": 5
+      }
+    ],
+    "links": [
+  
+      {
+        "source": 0,
+        "target": 1
+      },
+  
+      {
+        "source": 1,
+        "target": 2
+      },
+      {
+        "source": 2,
+        "target": 4
+      },
+  
+      {
+        "source": 3,
+        "target": 4
+      }
+    ]
+  }
